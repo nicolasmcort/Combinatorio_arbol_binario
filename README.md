@@ -1,4 +1,4 @@
-# Combinatorio_arbol_binario
+# Combinatoria_arbol_binario
 
 
 ``` python
